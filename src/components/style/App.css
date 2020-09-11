@@ -1,0 +1,17 @@
+.marker i {
+  font-size: 1.7rem;
+  cursor: pointer;
+}
+.mapContainer {
+  width: 100%;
+}
+.close-btn {
+  background-color: white;
+  border: none;
+  font-size: 2rem;
+  display: flex;
+  align-items: flex-end;
+}
+.modal-form {
+  width: 25rem;
+}
