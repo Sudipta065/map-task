@@ -33,7 +33,6 @@ A readme file for the Maps App
   
    |-- index.js (the entry point where the app renders the main App component)
 
-
 ```
 ## Copyright
 
