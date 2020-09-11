@@ -11,6 +11,9 @@
   font-size: 2rem;
   display: flex;
   align-items: flex-end;
+  margin-left: 22rem;
+  padding: 0;
+  width: 1.5rem;
 }
 .modal-form {
   width: 25rem;
