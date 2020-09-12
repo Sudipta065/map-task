@@ -14,7 +14,6 @@ A readme file for the Maps App
 ## What's included
 
 - `react-map-gl` is used to show the maps
-- `scss` is used as `css` pre-processor
 - `bootstrap` is used for basic component styling & structure
 
 
