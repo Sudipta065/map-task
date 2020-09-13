@@ -18,3 +18,11 @@
 .modal-form {
   width: 25rem;
 }
+@media only screen and (max-width: 465px) {
+  .modal-form {
+    width: 16rem;
+  }
+  .close-btn {
+    margin-left: 14rem;
+  }
+}
